@@ -3,6 +3,5 @@ This is a basic Android weather app built using Java and the OpenWeatherMap API.
 
 ![image alt](https://github.com/AbhinayKarthikeya/Android-Weather-App-using-OpenWeatherMap-API/blob/main/Screenshot_2025-06-20-18-07-20-18_9ddbea12711bafff796e042aec31d432.jpg?raw=true)
 
-
-
+![image alt](https://github.com/AbhinayKarthikeya/Android-Weather-App-using-OpenWeatherMap-API/blob/main/Screenshot_2025-06-20-18-07-46-52_9ddbea12711bafff796e042aec31d432.jpg?raw=true)
 
